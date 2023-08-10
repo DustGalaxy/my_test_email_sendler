@@ -1,0 +1,10 @@
+{
+    "filename": "msg.txt",
+    "to": [
+        "test@gmail.com",
+        "test@gmail.com"
+    ],
+    "from": "nickname",
+    "password": "app_password",
+    "subject": "Test Message"
+}
